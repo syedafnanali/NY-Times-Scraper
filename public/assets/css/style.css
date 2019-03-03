@@ -1,0 +1,65 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Roboto Slab", serif;
+}
+
+.btn-danger {
+  background-color: #000000bb;
+  border-color: #ffffff;
+}
+
+.btn-danger:hover {
+  background-color: #ffffff;
+  border-color: #764747;
+  color: black;
+}
+
+.panel-default > .panel-heading {
+  background-color: #0d6681;
+  color: #fff;
+  font-size: 20px;
+}
+
+.panel-default {
+  border-color: #3f3535;
+}
+
+.artLink {
+  color: #000000;
+  font-size: 16px;
+}
+
+.saved-buttons {
+  margin-right: 1em;
+}
+
+.noteText {
+  color: #000000;
+}
+
+.deletex {
+  color: #000000;
+}
+
+.alert-warning {
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.main-img {
+  margin-bottom: 2em;
+  border-top: 2px solid #3f3535;
+  border-bottom: 2px solid #3f3535;
+}
+
+.savedArt {
+  margin: 0 auto;
+  width: 70%;
+}
